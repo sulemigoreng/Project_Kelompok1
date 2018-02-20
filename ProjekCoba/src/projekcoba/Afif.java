@@ -13,6 +13,6 @@ public class Afif {
     public static void main (String[] args) {
         System.out.println ("Testing, satu.. dua.. tiga..");
         System.out.print ("Tes dong..");
-        System.out.print ("Ini juga pengen ngetes..");
+        System.out.print ("Ini tesnya..);
     }  
 }
