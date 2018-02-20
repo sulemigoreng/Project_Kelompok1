@@ -15,5 +15,6 @@ public class Annazar {
         System.out.println("Aku Gibrann...!!!");
         System.out.println("Hai, Aku Annazar...!!!");
         System.out.println("Hai juga, Aku Hamparasut...!!!");
+        System.out.println("Hai juga, Hamparasut...!!!");
     }
 }
