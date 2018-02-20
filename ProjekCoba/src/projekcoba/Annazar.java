@@ -12,5 +12,6 @@ package projekcoba;
 public class Annazar {
     public static void main(String[] args) {
         System.out.println("Aku Annazar...!!!");
+        System.out.println("Aku Gibrann...!!!");
     }
 }
