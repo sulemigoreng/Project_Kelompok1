@@ -12,7 +12,7 @@ package projekcoba;
 public class Afif {
     public static void main (String[] args) {
         System.out.println ("Testing, satu.. dua.. tiga..");
-        System.out.print ("Tes dong..");
-        System.out.print ("Ini tesnya..);
+        System.out.println ("Tes dong..");
+        System.out.println ("Ini tesnya..");
     }  
 }

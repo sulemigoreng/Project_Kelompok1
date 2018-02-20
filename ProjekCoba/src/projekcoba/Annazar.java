@@ -16,12 +16,9 @@ public class Annazar {
         System.out.println("Hai, Aku Annazar...!!!");
         System.out.println("Hai juga, Aku Hamparasut...!!!");
         System.out.println("Hai juga, Hamparasut...!!!");
-<<<<<<< HEAD
         System.out.println("Hai juga, Pajo...!!!");
-=======
         System.out.println("Nanda yooo, teeemmmmeeeee...!!!");
         
         System.out.println("Time : 10.46");
->>>>>>> 9baf7891d7222473a96bb2af5505708c5b3b3a0b
     }
 }
