@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -13,6 +14,6 @@ public class Afif {
     public static void main (String[] args) {
         System.out.println ("Testing, satu.. dua.. tiga..");
         System.out.print ("Tes dong..");
-        System.out.print ("Ini tesnya..);
+        System.out.print ("Ini tesnya..");
     }  
 }
