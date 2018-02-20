@@ -18,6 +18,7 @@ public class Annazar {
         System.out.println("Hai juga, Hamparasut...!!!");
         System.out.println("Nanda yooo, teeemmmmeeeee...!!!");
         
-        System.out.println("Time : 10.46");
+        System.out.println("Old Time : 10.46");
+        System.out.println("New Time : 10.46");
     }
 }
